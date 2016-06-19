@@ -1,0 +1,12 @@
+[submodule "frontend"]
+	path = frontend
+	url = git://github.com/qrbon/frontend.git
+	branch = master
+[submodule "backend"]
+	path = backend
+	url = git://github.com/qrbon/backend.git
+	branch = master
+[submodule "raspberry-pi"]
+	path = raspberry-pi
+	url = git://github.com/qrbon/raspi.git
+	branch = master
